@@ -243,41 +243,6 @@ At Practice Aptitude Tests, we provide industry standard psychometric tests for 
 </body>
 </html>
 
-  <!--<div class="container-fluid block1">
-    <center><h1 class="heading">Trending Tests</h1></center><br/>
-    <div class="row">
-      <div class="block1_1 col-md-4 col-sm-6 col-xs-12">
-        <div class="test1">
-          <h1>Slave Dynasty</h1>
-          <img src="images/history.jpg" height="100px" width="200px">
-          <p>The Slave Dynasty or Ilbari Dynasty of Delhi Sultanate was the first dynasty of the Sultanate. Qutub-ud-Din Aibak was the founder who was bought by Muhammad Ghori and gradually rose to be his trusted general on account of his soldierly abilities. Here, we are giving 10 GK Questions with Answers on Ilbari Dynasty or Slave Dynasty of Delhi Sultanate </p>
-          <pre>No of questions: 20           Time: 20 min</pre>
-          <button>Take Test</button>
-        </div>
-
-      </div>
-      <div class="block1_2 col-md-4 col-sm-6 col-xs-12">
-        <div class="test1">
-          <h1><u>Lodhi Dynasty</u></h1>
-          <img src="images/history1.jpg" height="100px" width="200px">
-          <p>The Lodhi Dynasty restores the greatness of Delhi Sultanate under Bahlol Lodhi. Sikandar Lodhi was the ablest among other three Lodhi rulers. Here, we are giving 10 GK Questions with Answers on the Lodhi Dynasty of Delhi Sultanate that will attune and equipped the aspirants according to the new trends of different competitive examination.</p>
-          <pre>No of questions: 20           Time: 20 min</pre>
-          <button>Take Test</button>
-        </div>
-      </div>
-      <div class="block1_3 col-md-4 col-sm-6 col-xs-12">
-        <div class="test1">
-          <h1>Mughal Dynasty</h1>
-          <img src="images/history3.jpg" height="100px" width="200px">
-          <p>Mughal Empire Online Test : Important questions regarding the Mughal Empire are given in the answer given in India Medieval History with 20 objective Mughal Empire questions with answers. In India History GK, you will get the same which is more likely to question the General Knowledge of Mughal Empire in the upcoming examinations.</p>
-          <pre>No of questions: 20           Time: 20 min</pre>
-          <button>Take Test</button>
-        </div>
-      </div>
-    </div>
-
-  </div>
--->
 <!--footer-->
 <div class="footer">
   <div class="container foo">
@@ -305,7 +270,7 @@ At Practice Aptitude Tests, we provide industry standard psychometric tests for 
     </div>
   </div>
   <div class="footer-copyright text-center py-3">© 2019 Copyright:
-    <a href="https://mdbootstrap.com/education/bootstrap/"> vimalupreti.com</a>
+    <a href=""> vimalupreti.com</a>
   </div>
 </div>
 
