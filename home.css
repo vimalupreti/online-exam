@@ -1,0 +1,158 @@
+body{
+	margin:0px;
+	padding:0px;
+
+}
+
+.navbar-brand{
+	color:green;
+}
+.dropdown-menu a{
+	background-color: #5DB4DE;
+	color: black;
+	
+}
+.dropdown-menu a:hover{
+	background-color: #6588B8;
+	color:red;
+}
+
+.test1{
+	text-align: center;
+	background-color: #F0B23B;
+	border:2px solid black;
+	border-radius: 30px;
+}
+
+.test1 p{
+	color:white;
+	text-align: center;
+}
+.view{
+	height:600px;
+	width:100%;
+}
+
+.navright{
+	float:right;
+}
+
+.heading{
+	font-weight: bolder;
+	text-decoration: underline;
+	color:#00AEEF;
+}
+.navcss{
+	border:2px solid white;
+}
+
+.nav-item a{
+	color:white;
+}
+.navbar-toggler-icon{
+	color: white;
+}
+
+/*.block1{
+	background:url(../images/history.jpg);
+}*/
+
+.carousel-caption h3{
+	color:white;
+	font-weight: bolder;
+}
+
+
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+}
+
+.bgimg-1, .bgimg-2, .bgimg-3 {
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.bgimg-1 {
+  background-image: url("../images/history.jpg");
+  min-height: 100%;
+}
+
+.bgimg-2 {
+  background-image: url("../images/aptitude.jpg");
+  min-height: 400px;
+}
+
+.bgimg-3 {
+  background-image: url("../images/history3.jpg");
+  min-height: 400px;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #111;
+}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+  .bgimg-1, .bgimg-2, .bgimg-3 {
+    background-attachment: scroll;
+  }
+}
+
+.footer{
+  background-color: black;
+  color:white;
+}
+
+.fooexam a{
+  float: center;
+
+}
+
+.fooicon i{
+  float:center;
+}
+
+.foocontent h3{
+text-align: center;
+color:white;
+}
+
+#reading{
+  max-width: 100%;
+  height:300px;
+  display:block;
+}
+#transbutton{
+  background-color: white;
+  color:blue;
+  border:2px solid blue;
+  cursor:pointer;
+}
